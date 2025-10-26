@@ -20,7 +20,7 @@ Manual: [please click this link](https://github.com/nomahi/lmmrobust/raw/main/lm
 
 ```r
 
-#  R example code for implementing the linear mixed-effects model analysis for clustered binary outcome data
+#  R example code for implementing the linear mixed-effects model analysis for estimating absolute effect measures
 
 # The "lmmrobust" package
 # GitHub webpage: https://github.com/nomahi/lmmrobust/
